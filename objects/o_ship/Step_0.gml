@@ -3,6 +3,9 @@ var _mouse_direction = point_direction(x, y, mouse_x, mouse_y);
 image_angle = _mouse_direction;
 
 var _thrust = mouse_check_button(mb_right);
+image_index = _thrust;
+
+direction = _mouse_direction;
 
 if (_thrust){
 	motion_add(image_angle, acceleration);
@@ -10,8 +13,6 @@ if (_thrust){
 		speed = max_speed;
 	}
 } else {
-	friction = 0.05;
+friction = friction_amount;
 }
 
-
-direction = _mouse_direction;
