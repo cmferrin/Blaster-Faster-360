@@ -16,6 +16,7 @@
     {"id":{"name":"a_hit","path":"sounds/a_hit/a_hit.yy",},"order":2,},
     {"id":{"name":"s_armor","path":"sprites/s_armor/s_armor.yy",},"order":3,},
     {"id":{"name":"a_explode","path":"sounds/a_explode/a_explode.yy",},"order":1,},
+    {"id":{"name":"o_explosion_particle","path":"objects/o_explosion_particle/o_explosion_particle.yy",},"order":1,},
     {"id":{"name":"s_button","path":"sprites/s_button/s_button.yy",},"order":4,},
     {"id":{"name":"s_stars_far","path":"sprites/s_stars_far/s_stars_far.yy",},"order":2,},
     {"id":{"name":"s_enemy_laser","path":"sprites/s_enemy_laser/s_enemy_laser.yy",},"order":5,},
@@ -69,7 +70,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.1.542",
+    "IDEVersion": "2.3.3.574",
   },
   "resourceVersion": "1.4",
   "name": "Blaster Faster 360",
