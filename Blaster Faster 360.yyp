@@ -21,6 +21,7 @@
     {"id":{"name":"s_stars_far","path":"sprites/s_stars_far/s_stars_far.yy",},"order":2,},
     {"id":{"name":"s_enemy_laser","path":"sprites/s_enemy_laser/s_enemy_laser.yy",},"order":5,},
     {"id":{"name":"s_enemy_one","path":"sprites/s_enemy_one/s_enemy_one.yy",},"order":6,},
+    {"id":{"name":"bounce_off_screen_edge","path":"scripts/bounce_off_screen_edge/bounce_off_screen_edge.yy",},"order":0,},
     {"id":{"name":"s_ship","path":"sprites/s_ship/s_ship.yy",},"order":0,},
     {"id":{"name":"r_space","path":"rooms/r_space/r_space.yy",},"order":0,},
   ],

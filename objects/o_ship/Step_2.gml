@@ -1,4 +1,2 @@
-if (x < 0 or x > room_width){
-	x = xprevious;
-	hspeed = -hspeed;
-} 
+//make the ship bounce off the walls
+bounce_off_screen_edge();
