@@ -24,5 +24,9 @@ if (_thrust){
 } else {
 	//add friction for more realism
 	friction = friction_amount;
-}
+} 
 
+var _fire_laser = mouse_check_button_pressed(mb_left);
+if (_fire_laser) {
+	fire_lasers();
+}
