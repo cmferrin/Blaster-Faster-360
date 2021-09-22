@@ -20,6 +20,7 @@
     {"id":{"name":"s_enemy","path":"sprites/s_enemy/s_enemy.yy",},"order":7,},
     {"id":{"name":"a_hit","path":"sounds/a_hit/a_hit.yy",},"order":2,},
     {"id":{"name":"s_armor","path":"sprites/s_armor/s_armor.yy",},"order":3,},
+    {"id":{"name":"o_ship_parent","path":"objects/o_ship_parent/o_ship_parent.yy",},"order":4,},
     {"id":{"name":"a_explode","path":"sounds/a_explode/a_explode.yy",},"order":1,},
     {"id":{"name":"o_explosion_particle","path":"objects/o_explosion_particle/o_explosion_particle.yy",},"order":1,},
     {"id":{"name":"s_button","path":"sprites/s_button/s_button.yy",},"order":4,},
